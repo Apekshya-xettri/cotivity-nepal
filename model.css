@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::marker{
+    content: '';
+}
+
+.carousel-indicators{
+    display: none;
+}
+
+/* .carousel-control-prev-icon, .carousel-control-next-icon{
+    display: none;
+} */
+
+.carousel-control-prev, .carousel-control-next{
+    display: none;
+}
